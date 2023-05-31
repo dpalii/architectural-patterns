@@ -7,3 +7,4 @@
 6. [Peer-to-Peer](https://github.com/dpalii/peer-to-peer)
 6. [Event-bus](https://github.com/dpalii/event-bus)
 7. [MVC](https://github.com/dpalii/mvc)
+8. [Blackboard](https://github.com/dpalii/blackboard)
